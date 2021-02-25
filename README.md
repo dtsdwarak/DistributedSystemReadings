@@ -11,6 +11,7 @@ The following are the recommended readings/notes ~~taken~~ inspired from [Alex X
 5. [NDB Cluster Replication: Bidrectional and Circular Replication](https://dev.mysql.com/doc/refman/5.7/en/mysql-cluster-replication-multi-source.html)
 6. [Caching Strategies and How to Choose the Right One](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/)
 7. [Scaling Memcache at Facebook](https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/nishtala)
+    - [Associated Presentation Talk Video - YouTube](https://youtu.be/6phA3IAcEJ8) 
 8. [Single point of failure - Wikipedia](https://en.wikipedia.org/wiki/Single_point_of_failure)
 9. [Amazon CloudFront Dynamic Content Delivery](https://aws.amazon.com/cloudfront/dynamic-content/)
 10. [Configure sticky sessions for your Classic Load Balancer](https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/elb-sticky-sessions.html)
