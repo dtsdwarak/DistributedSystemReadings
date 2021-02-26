@@ -29,6 +29,25 @@ The following are the recommended readings/notes ~~taken~~ inspired from [Alex X
 5. [Google Compute Engine SLA](https://cloud.google.com/compute/sla)
 6. [SLA summary for Azure services](https://azure.microsoft.com/en-in/support/legal/sla/summary/)
 
+## 4. Rate Limiter
+
+1. [Rate-limiting strategies and techniques](https://engineering.linecorp.com/en/blog/high-throughput-distributed-rate-limiter/)
+2. [Twitter Rate Limits](https://developer.twitter.com/en/docs/rate-limits)
+3. [IBM Microservices](https://www.ibm.com/cloud/learn/microservices)
+4. [Throttle API requests for better throughput ](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request-throttling.html)
+5. [Stripe Rate Limiters](https://stripe.com/blog/rate-limiters)
+6. [Shopify API rate limits](https://shopify.dev/concepts/about-apis/rate-limits)
+7. [System Design — Rate limiter and Data modelling](https://medium.com/@saisandeepmopuri/system-design-rate-limiter-and-data-modelling-9304b0d18250)
+8. [How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
+9. [Redis](https://redis.io/)
+10. [Envoyproxy - RateLimit](https://github.com/envoyproxy/ratelimit)
+11. [Scaling your API with rate limiters](https://gist.github.com/ptarjan/e38f45f2dfe601419ca3af937fff574d#request-rate-limiter)
+12. [Google Docs Usage Limits](https://developers.google.com/docs/api/limits)
+13. [Better Rate Limiting With Redis Sorted Sets](https://engineering.classdojo.com/blog/2015/02/06/rolling-rate-limiter/)
+14. [What is edge computing?](https://www.cloudflare.com/learning/serverless/glossary/what-is-edge-computing/)
+15. [Rate Limit Requests with Iptables](https://blog.programster.org/rate-limit-requests-with-iptables)
+16. [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
+
 # License
 
 Content licensed under [MIT](https://opensource.org/licenses/MIT)
