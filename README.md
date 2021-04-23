@@ -1,6 +1,18 @@
 # Distributed System Readings
 
-The following are the recommended readings/notes ~~taken~~ inspired from [Alex Xu's System Design Interview](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) book. Find more relevant papers within the [papers](./papers/) folder.
+The following are the recommended readings/notes ~~taken~~ inspired from [Alex Xu's System Design Interview](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) book. Find more relevant papers within the [papers](./papers/) folder. 
+
+## References
+
+1. [MS Azure - Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+2. [Understanding Distributed Systems](https://understandingdistributed.systems/)
+3. [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245/)
+4. [System Design Interview – An Insider's Guide](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
+5. [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+6. [High Scalability Blog](http://highscalability.com/)
+7. [@donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+8. [@binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+9. [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
 ## 1. Scale from Zero To Millions of Users
 
